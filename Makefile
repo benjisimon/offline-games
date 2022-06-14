@@ -2,7 +2,8 @@
 ## Makefile for building this project
 ##
 
-HTMLS = games/card/Ninety_Eight.html
+HTMLS = games/card/Ninety_Eight.html \
+	games/card/Golf.html
 MKHTML = scripts/mkhtml.php
 
 
