@@ -3,7 +3,9 @@
 ##
 
 HTMLS = games/card/Ninety_Eight.html \
-	games/card/Golf.html
+	games/card/Golf.html \
+	games/dice/Bunco.html
+
 MKHTML = scripts/mkhtml.php
 
 
