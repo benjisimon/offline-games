@@ -16,7 +16,7 @@ score as little as possible, as in the sport of Golf.
 * Before play begins, each player may look once at the two nearest
  cards of his or her square layout, without showing them to anyone
  else.
-* After this, the layout cards may not be looked at again until they
+* After this, the **layout cards may not be looked at again** until they
   are discarded during play or scored at the end of the play.
   
 ## Game Play
@@ -48,7 +48,8 @@ score as little as possible, as in the sport of Golf.
 * Note that if you look at any face down card in your layout, that
   card must be discarded replaced with the card you drew. There is no
   way to check the value of a face down card and leave it in place.
-  
+
+
 ## Scoring
 
 At the end of the play, each player's square of four cards is turned face-up and scored as follows.
@@ -63,4 +64,5 @@ The player who has the lowest cumulative score after nine deals wins.
 
 # References
 
-* https://www.pagat.com/draw/golf.html
+* [Pagat](https://www.pagat.com/draw/golf.html)
+* [YouTube](https://www.youtube.com/watch?v=Pq0iz7Fgza8)
