@@ -8,14 +8,23 @@ HTMLS = games/card/Ninety_Eight.html \
   games/dice/Ship_Captain_Crew.html \
 	games/dice/Ducks_in_a_Bucket.html
 
+TARGETS = $(HTMLS) index.html
 
 MKHTML = scripts/mkhtml.php
+MKINDEX = scripts/mkindex.php
 
+INSTALL_DIR = /sdcard/Documents/OfflineGames
 
-all : $(HTMLS)
+all : $(TARGETS)
 
 clean :
-	rm -rf games
+	rm -rf $(TARGETS)
+
+install : $(TARGETS)
+	cp -R index.html games $(INSTALL_DIR)
+
+index.html : $(HTMLS) $(MKINDEX)
+	php -f $(MKINDEX) > $@
 
 games/%.html : srcs/%.md
 	mkdir -p $(dir $@)

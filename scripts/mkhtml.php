@@ -2,8 +2,7 @@
 /*
  * A PHP file for generating HTML from a .md file
  */
-require_once(__DIR__ . '/lib/vendor/autoload.php');
-require_once(__DIR__ . '/lib/snippets.php');
+require_once(__DIR__ . '/lib/loader.php');
 use Michelf\Markdown;
 
 if($argc != 2) {
