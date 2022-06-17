@@ -4,12 +4,9 @@
  */
 ?>
 <style>
- body, html {
-     height: 100%
- }
 
  body {
-     margin: 1em;
+     margin: 1em 1em 3em;
      font-family: Arial;
      font-size: 18px;
  }
