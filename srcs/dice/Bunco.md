@@ -36,5 +36,5 @@ Roll 3 dice for 6 rounds, earning as many points as possible.
 
 ## References
 
-* https://www.youtube.com/watch?v=8WCILuM5vrI
-* https://theop.games/2021/04/10-fun-and-easy-dice-games-to-play/#bunco
+* [YouTube](https://www.youtube.com/watch?v=8WCILuM5vrI)
+* [Fun Dice Games](https://theop.games/2021/04/10-fun-and-easy-dice-games-to-play/#bunco)

@@ -43,7 +43,8 @@ makes the value of the pile more than 98 loses.
 
 ## Resources
 
-* https://www.pagat.com/adders/98.html
+* [Pagat](https://www.pagat.com/adders/98.html)
+
 
 
 

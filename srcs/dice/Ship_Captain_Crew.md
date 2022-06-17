@@ -60,8 +60,9 @@ Can play one round and see who gets the biggest score.
 
 ## References
 
-* https://www.youtube.com/watch?v=cXNLrM10k_E
-* https://www.youtube.com/watch?v=AVU7qOU-Zyc
-* https://onmilwaukee.com/articles/bardice
-* https://bargames101.com/7-best-dice-games/#bar-dice
+* [YouTube](https://www.youtube.com/watch?v=cXNLrM10k_E)
+* [YouTube](https://www.youtube.com/watch?v=AVU7qOU-Zyc)
+* [YouTube](https://onmilwaukee.com/articles/bardice)
+* [YouTube](https://bargames101.com/7-best-dice-games/#bar-dice)
+
 
