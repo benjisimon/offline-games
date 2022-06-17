@@ -9,10 +9,12 @@
 function files_walk($root, $fn, $init = false) {
   $carry = $init;
   $dh = opendir($root);
-  $skip = ['.', '..'];
-
   while($f = readdir($dh)) {
-    if(in_array($f, $skip)) {
+    if(preg_match('/^[.]/', $f)) {
+      continue;
+    }
+
+    if(preg_match('/[~]$/', $f)) {
       continue;
     }
 
