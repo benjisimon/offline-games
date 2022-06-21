@@ -10,7 +10,12 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Horse_Race.html \
 	games/card/Rummy.html \
 	games/card/Casino.html \
-	games/dice/Farkle.html
+	games/dice/Farkle.html \
+	games/card/Coup.html \
+	games/card/Cribbage.html \
+	games/card/Slapjack.html \
+	games/card/The_Mind.html
+
 
 
 
