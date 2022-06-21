@@ -19,4 +19,7 @@
      margin: 1em 0;
  }
 
+ code {
+     white-space: pre;
+ }
 </style>
