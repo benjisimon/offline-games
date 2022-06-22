@@ -14,7 +14,8 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Coup.html \
 	games/card/Cribbage.html \
 	games/card/Slapjack.html \
-	games/card/The_Mind.html
+	games/card/The_Mind.html \
+	games/dice/Street_Craps.html
 
 
 
