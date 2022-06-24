@@ -16,7 +16,9 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Slapjack.html \
 	games/card/The_Mind.html \
 	games/card/Clear_The_Dungeon.html \
-	games/dice/Street_Craps.html
+	games/dice/Street_Craps.html \
+	games/dice/Beetle.html \
+	games/dice/Martinetti.html
 
 
 
