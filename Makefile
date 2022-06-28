@@ -18,7 +18,8 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Clear_The_Dungeon.html \
 	games/dice/Street_Craps.html \
 	games/dice/Beetle.html \
-	games/dice/Martinetti.html
+	games/dice/Martinetti.html \
+	games/dice/Everest.html
 
 
 
