@@ -19,8 +19,9 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/dice/Street_Craps.html \
 	games/dice/Beetle.html \
 	games/dice/Martinetti.html \
-	games/dice/Everest.html
-
+	games/dice/Everest.html \
+	games/dice/Threes_Away.html \
+	games/dice/Straight_Golf.html
 
 
 
