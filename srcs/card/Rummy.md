@@ -37,6 +37,12 @@ Add up the value all cards in other players hands and add that to winner's score
 * Aces: 1 point
 * Other cards: their numeric value corresponds to their points
 
+## Options
+
+* Instead of drawing a card, you can pick up a card from the discard
+  pile. If it's on top, take it. If it has cards on top of it, then
+  take the card and all cards on top.
+
 
 ## References
 
