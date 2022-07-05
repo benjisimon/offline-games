@@ -22,7 +22,9 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/dice/Everest.html \
 	games/dice/Threes_Away.html \
 	games/dice/Straight_Golf.html \
-	games/card/Spit.html
+	games/card/Spit.html \
+	games/card/Crime_Wars.html
+
 
 
 
