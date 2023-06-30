@@ -24,7 +24,10 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/dice/Straight_Golf.html \
 	games/card/Spit.html \
 	games/card/Crime_Wars.html \
-  games/card/Army_Ants.html
+        games/card/Army_Ants.html \
+	games/card/Mate.html \
+	games/card/Spoons.html \
+
 
 
 
