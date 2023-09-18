@@ -28,7 +28,8 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Crime_Wars.html \
         games/card/Army_Ants.html \
 	games/card/Mate.html \
-	games/card/Spoons.html
+	games/card/Spoons.html \
+	games/card/Hearts.html \
 
 
 
