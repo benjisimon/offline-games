@@ -31,6 +31,9 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Mate.html \
 	games/card/Spoons.html \
 	games/card/Hearts.html \
+	games/dice/Poker_Dice.html \
+	games/dice/Liars_Dice.html
+
 
 
 
