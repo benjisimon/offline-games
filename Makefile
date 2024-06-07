@@ -25,6 +25,7 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/dice/Threes_Away.html \
 	games/dice/Knucklebones.html \
 	games/dice/Straight_Golf.html \
+	games/dice/Stack_A_Cash.html \
 	games/card/Spit.html \
 	games/card/Crime_Wars.html \
         games/card/Army_Ants.html \
