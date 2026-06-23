@@ -37,7 +37,13 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/billiards/Straight_Pool.html \
 	games/billiards/Cutthroat.html \
 	games/billiards/Bottle_Pool.html \
-	games/billiards/Target_Practice.html
+	games/billiards/Target_Practice.html \
+	games/rpg/Lasers_and_Feelings.html \
+	games/rpg/Lasers_and_Feelings_Starts.html \
+	games/rpg/Lasers_and_Feelings_Twists.html \
+	games/rpg/Honey_Heist.html \
+	games/rpg/Bear_Heist_Starts.html \
+	games/rpg/Bear_Heist_Twists.html
 
 
 
