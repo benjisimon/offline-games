@@ -33,7 +33,11 @@ HTMLS = games/card/Ninety_Eight.html \
 	games/card/Spoons.html \
 	games/card/Hearts.html \
 	games/dice/Poker_Dice.html \
-	games/dice/Liars_Dice.html
+	games/dice/Liars_Dice.html \
+	games/billiards/Straight_Pool.html \
+	games/billiards/Cutthroat.html \
+	games/billiards/Bottle_Pool.html \
+	games/billiards/Target_Practice.html
 
 
 
